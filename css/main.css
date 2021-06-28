@@ -2366,10 +2366,16 @@ header .header-logo a {
 }
 
 #credentials .timeline-header .timeframe-place {
-	font-family: "montserrat-regular", sans-serif;
-	font-size: 1.4rem;
+	font-family: "librebaskerville-italic", serif;
+	font-size: 1.3rem;
 	color: #757575;
 	margin-bottom: 0;
+	line-height: 1.615;
+	font-style: italic;
+}
+
+#credentials .timeline-header .timeframe-place:before {
+	content: "\2014 \0020";
 }
 
 #credentials .timeline-header h3 {
