@@ -1,5 +1,7 @@
-# tarangbhavsar.github.io
-To access : https://tarangbhavsar.github.io/
-### References
+# [tarangbhavsar.github.io](https://tarangbhavsar.github.io/)
 
-HTML template - https://pixelbuddha.net/html/howdy-html-template-free-download
+Its a portfolio website and blog
+
+### References 📚
+
+[GUI](https://pixelbuddha.net/html/howdy-html-template-free-download)
