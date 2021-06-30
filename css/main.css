@@ -1642,7 +1642,7 @@ header .header-logo a {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	min-height: 804px;
+	/*min-height: 804px;*/
 	position: relative;
 }
 
@@ -3119,6 +3119,10 @@ footer .footer-social li a:focus {
 
 footer .footer-social li:last-child {
 	margin-right: 0;
+}
+
+footer .copyright{
+	color: #555555;
 }
 
 #go-top {
